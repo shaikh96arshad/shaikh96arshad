@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaikh96arshad
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and BlockChain
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and DeepLearning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning and operations
 - 📫 How to reach me shaikh96arshad@gmail.com
