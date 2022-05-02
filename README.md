@@ -2,18 +2,18 @@
 
 
 * [aws-projects](#aws-projects)
-    * [Bank Personal Loan Modelling](#bank-personal-loan-modelling)
-    * [Dry Beans](#dry-beans)
-    * [sagemaker-autopilot](#sagemaker-autopilot)
+    * [Bank Personal Loan Modelling]
+    * [Dry Beans]
+    * [sagemaker-autopilot]
 * [sentiment-analysis](#sentiment-analysis)
-    * [Quora Question Set](#quora-question-set)
-    * [Amazon Review](#amazon-review)
-* [Deep-learning](#deep-learning)
+    * [Quora Question Set]
+    * [Amazon Review]
+* [deep-learning](#deep-learning-tutorials)
     * [tensorflow](#tensor-flow-tutorials)
 * [time-series](#time-series)
-    * [ARIMA](#arima)
-    * [EWM , EWMA](#ewma)
-* [scikit-learn](#scikit-learn)
+    * [ARIMA]
+    * [EWM , EWMA]
+* [scikit-learn]
 
 ### aws-projects
 | Project | Description | Architecture |
@@ -29,6 +29,7 @@
 | [quora-question-set](https://github.com/shaikh96arshad/sentiment-analysis/blob/main/Amazon%20Fine%20Food%20Review/1.Amazon%20Fine%20Food%20Reviews.ipynb) | Use sentiment analysis to determine if a question posted on Quora is duplicate |
 | [amazon-review](https://github.com/shaikh96arshad/sentiment-analysis/tree/main/Amazon%20Fine%20Food%20Review) | Use Sentiment analysis to determine if a review posted on Amazon is positive or negative |
 
+### deep-learning-tutorials
 ### tensor-flow-tutorials
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
