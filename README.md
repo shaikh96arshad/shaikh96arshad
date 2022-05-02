@@ -35,6 +35,7 @@
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [tsf-basics](https://github.com/shaikh96arshad/deep-learning/blob/main/tensor-flow/tf-basics.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
 | [tsf-linear](https://github.com/shaikh96arshad/deep-learning/blob/main/tensor-flow/tf-linearRegression.ipynb) | Implement linear regression in TensorFlow. |
+| [tsf-classification](https://github.com/shaikh96arshad/deep-learning/blob/main/tensor-flow/tf-Classification.ipynb) | Learn to create a classification model using tensorflow |
 
 ### time-series
 [Time Series Tutorials](https://github.com/shaikh96arshad/time-series)
